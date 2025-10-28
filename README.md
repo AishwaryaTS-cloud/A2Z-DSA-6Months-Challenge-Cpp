@@ -1,6 +1,6 @@
 # 🚀 Striver's A2Z DSA 6-Month Challenge (C++)
 
-![DSA Challenge Banner](./assets/dsa-challenge-banner.png)
+![DSA Challenge Banner](<img.png>)
 
 ### 📌 Goal
 Solve **5 DSA problems every day** for the next **6 months**, covering the entire **Striver's A2Z DSA Sheet**.  
