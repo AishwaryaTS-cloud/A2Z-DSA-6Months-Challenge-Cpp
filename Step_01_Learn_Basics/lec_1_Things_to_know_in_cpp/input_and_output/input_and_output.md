@@ -1,4 +1,3 @@
-```markdown
 # C++ Basic Input/Output
 **Day 1 of 6 Month DSA Challenge**
 **Date:** 28/10/2025
