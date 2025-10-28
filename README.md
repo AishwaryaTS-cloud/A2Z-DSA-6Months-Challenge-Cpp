@@ -3,7 +3,7 @@
 ![DSA Challenge Banner](<img.png>)
 
 ### 📌 Goal
-Solve **5 DSA problems every day** for the next **6 months**, covering the entire **Striver's A2Z DSA Sheet**.  
+Solve **3 DSA problems every day** for the next **6 months**, covering the entire **Striver's A2Z DSA Sheet**.  
 Each problem will contain:
 - **Brute Force Solution**
 - **Better Approach**
